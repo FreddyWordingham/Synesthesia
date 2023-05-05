@@ -1,0 +1,21 @@
+{
+    "name": "quasar-code-dark",
+    "displayName": "Quasar Code Dark",
+    "description": "Dark and colourful theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Quasar Code Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Quasar Code Dark-color-theme.json"
+            }
+        ]
+    }
+}
