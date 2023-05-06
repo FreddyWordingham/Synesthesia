@@ -14,13 +14,29 @@ Different hues are always a multiple of 5 degrees apart.
 
 ## Examples
 
+### TypeScript
+
+![TypeScript](./resources/images/typescript.png)
+
+### Python
+
+![Python](./resources/images/python.png)
+
 ### Rust
 
-![OpenCL](./resources/images/opencl.png)
-![TypeScript](./resources/images/typescript.png)
-![Python](./resources/images/python.png)
 ![Rust](./resources/images/rust.png)
+
+### OpenCL
+
+![OpenCL](./resources/images/opencl.png)
+
+### JSON
+
 ![JSON](./resources/images/json.png)
+
+### TOML
+
+![TOML](./resources/images/toml.png)
 
 ## Table
 
