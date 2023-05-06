@@ -3,6 +3,26 @@
     "displayName": "Synesthesia",
     "description": "Dark theme with meaningful colours!",
     "version": "0.1.0",
+    "publisher": "DrFWord",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FreddyWordingham/Synesthesia"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "colour",
+        "color",
+        "synesthesia",
+        "meaningful",
+        "highlighting",
+        "semantic",
+        "syntax",
+        "rust",
+        "python",
+        "markup",
+        "textmate"
+    ],
     "engines": {
         "vscode": "^1.78.0"
     },
