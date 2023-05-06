@@ -463,11 +463,6 @@
             "scope": "keyword.operator.namespace",
             "settings": { "foreground": "#FFFFFF" }
         },
-        {
-            "name": "Punctuation - Separator - Dictionary",
-            "scope": "punctuation.separator.dictionary",
-            "settings": { "foreground": "#FFFFFF" }
-        },
         // Meta
         {
             "name": "Meta",
@@ -571,6 +566,11 @@
             "settings": { "foreground": "#4d90b3" }
         },
         {
+            "name": "Variable - Language",
+            "scope": "variable.language",
+            "settings": { "foreground": "#4db399" }
+        },
+        {
             "name": "Variable - Language - Self",
             "scope": "variable.language.self",
             "settings": { "foreground": "#4db399" }
@@ -579,6 +579,11 @@
             "name": "Variable - Language - This",
             "scope": "variable.language.this",
             "settings": { "foreground": "#4db391" }
+        },
+        {
+            "name": "Variable - Other",
+            "scope": "variable.other",
+            "settings": { "foreground": "#4d6eb3" }
         },
         {
             "name": "Variable - Other - Object",
@@ -606,9 +611,19 @@
             "settings": { "foreground": "#4d6eb3" }
         },
         {
+            "name": "Variable - Other - Read",
+            "scope": "variable.other.read",
+            "settings": { "foreground": "#4db3a2" }
+        },
+        {
             "name": "Variable - Other - Readwrite",
             "scope": "variable.other.readwrite",
             "settings": { "foreground": "#4db3aa" }
+        },
+        {
+            "name": "Variable - Other - Write",
+            "scope": "variable.other.write",
+            "settings": { "foreground": "#4db2b3" }
         },
         {
             "name": "Variable - Other - Rust",
@@ -616,11 +631,6 @@
             "settings": { "foreground": "#4daab3" }
         },
         // Support
-        {
-            "name": "Support - Type",
-            "scope": "support.type",
-            "settings": { "foreground": "#666" }
-        },
         {
             "name": "Support - Constant - Property value",
             "scope": "support.constant.property-value",
@@ -632,19 +642,24 @@
             "settings": { "foreground": "#b3aa4d" }
         },
         {
-            "name": "Support - Type - Primitive",
-            "scope": "support.type.primitive",
-            "settings": { "foreground": "#4d66b3", "fontStyle": "bold" }
-        },
-        {
             "name": "Support - Function",
             "scope": "support.function",
             "settings": { "foreground": "#4db355", "fontStyle": "bold" }
         },
         {
-            "name": "Support - Type - Primitive",
+            "name": "Support - Class - Component",
             "scope": "support.class.component",
             "settings": { "foreground": "#4d7fb3", "fontStyle": "bold" }
+        },
+        {
+            "name": "Support - Type",
+            "scope": "support.type",
+            "settings": { "foreground": "#4d7fb3" }
+        },
+        {
+            "name": "Support - Type - Primitive",
+            "scope": "support.type.primitive",
+            "settings": { "foreground": "#4d66b3", "fontStyle": "bold" }
         },
         {
             "name": "Support - Type - Property name",
@@ -661,6 +676,11 @@
             "name": "Storage - Modifier",
             "scope": "storage.modifier",
             "settings": { "foreground": "#914db3" }
+        },
+        {
+            "name": "Storage - Type",
+            "scope": "storage.type",
+            "settings": { "foreground": "#884db3" }
         },
         {
             "name": "Storage - Type - Function",
@@ -682,11 +702,6 @@
             "scope": "storage.type.enum",
             "settings": { "foreground": "#774db3" }
         },
-        {
-            "name": "Storage - Type",
-            "scope": "storage.type",
-            "settings": { "foreground": "#884db3" }
-        },
         // Punctuation
         {
             "name": "Punctuation - Definition - String",
@@ -702,6 +717,16 @@
             "name": "Punctuation - Definition - Decorator",
             "scope": "punctuation.definition.decorator",
             "settings": { "foreground": "#b34d88" }
+        },
+        {
+            "name": "Punctuation - Separator",
+            "scope": "punctuation.separator",
+            "settings": { "foreground": "#FFFFFF" }
+        },
+        {
+            "name": "Punctuation - Separator - Dictionary",
+            "scope": "punctuation.separator.dictionary",
+            "settings": { "foreground": "#FFFFFF" }
         },
         {
             "name": "Punctuation - Separator - Arguments",
@@ -734,7 +759,7 @@
             "settings": { "foreground": "#ffffff" }
         },
         {
-            "name": "Punctuation - accessor",
+            "name": "Punctuation - Accessor",
             "scope": "punctuation.accessor",
             "settings": { "foreground": "#ffffff" }
         },

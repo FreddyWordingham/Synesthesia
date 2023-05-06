@@ -32,9 +32,9 @@
 #4db388 // --
 #4db391 // This
 #4db399 // Self
-#4db3a2 // --
+#4db3a2 // Read
 #4db3aa // Mutable variable
-#4db2b3 // --
+#4db2b3 // Write
 #4daab3 // Variable name
 #4da1b3 // Attribute vendored
 #4d99b3 // Variable parameter

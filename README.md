@@ -50,9 +50,9 @@ Different hues are always a multiple of 5 degrees apart.
 | <span style="color: #4db388">#4db388</span> | ![#4db388](https://placehold.co/15x15/4db388/4db388.png) | 155 | // --                                        |
 | <span style="color: #4db391">#4db391</span> | ![#4db391](https://placehold.co/15x15/4db391/4db391.png) | 160 | // This                                      |
 | <span style="color: #4db399">#4db399</span> | ![#4db399](https://placehold.co/15x15/4db399/4db399.png) | 165 | // Self                                      |
-| <span style="color: #4db3a2">#4db3a2</span> | ![#4db3a2](https://placehold.co/15x15/4db3a2/4db3a2.png) | 170 | // --                                        |
+| <span style="color: #4db3a2">#4db3a2</span> | ![#4db3a2](https://placehold.co/15x15/4db3a2/4db3a2.png) | 170 | // Read                                      |
 | <span style="color: #4db3aa">#4db3aa</span> | ![#4db3aa](https://placehold.co/15x15/4db3aa/4db3aa.png) | 175 | // Mutable variable                          |
-| <span style="color: #4db2b3">#4db2b3</span> | ![#4db2b3](https://placehold.co/15x15/4db2b3/4db2b3.png) | 180 | // --                                        |
+| <span style="color: #4db2b3">#4db2b3</span> | ![#4db2b3](https://placehold.co/15x15/4db2b3/4db2b3.png) | 180 | // Write                                     |
 | <span style="color: #4daab3">#4daab3</span> | ![#4daab3](https://placehold.co/15x15/4daab3/4daab3.png) | 185 | // Variable name                             |
 | <span style="color: #4da1b3">#4da1b3</span> | ![#4da1b3](https://placehold.co/15x15/4da1b3/4da1b3.png) | 190 | // Attribute vendored                        |
 | <span style="color: #4d99b3">#4d99b3</span> | ![#4d99b3](https://placehold.co/15x15/4d99b3/4d99b3.png) | 195 | // Variable parameter                        |
