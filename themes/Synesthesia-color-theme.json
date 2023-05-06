@@ -161,6 +161,12 @@
             "scope": "punctuation.definition.comment",
             "settings": { "foreground": "#666" }
         },
+        // Log
+        {
+            "name": "Log - Date",
+            "scope": "log.date",
+            "settings": { "foreground": "#5eb34d" }
+        },
         // Markup
         {
             "name": "Markup - Inline - Raw - String",

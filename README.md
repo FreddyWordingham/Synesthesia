@@ -12,6 +12,16 @@ The colours should be meaningful!
 In this theme, all colours share a common saturation and lightness, and similar token kinds will share similar hue values.
 Different hues are always a multiple of 5 degrees apart.
 
+## Examples
+
+### Rust
+
+![OpenCL](./resources/images/opencl.png)
+![TypeScript](./resources/images/typescript.png)
+![Python](./resources/images/python.png)
+![Rust](./resources/images/rust.png)
+![JSON](./resources/images/json.png)
+
 ## Table
 
 | Hex                                         |                          Colour                          | Hue | Token                                        |
@@ -38,7 +48,7 @@ Different hues are always a multiple of 5 degrees apart.
 | <span style="color: #77b34d">#77b34d</span> | ![#77b34d](https://placehold.co/15x15/77b34d/77b34d.png) | 95  | // --                                        |
 | <span style="color: #6eb34d">#6eb34d</span> | ![#6eb34d](https://placehold.co/15x15/6eb34d/6eb34d.png) | 100 | // --                                        |
 | <span style="color: #66b34d">#66b34d</span> | ![#66b34d](https://placehold.co/15x15/66b34d/66b34d.png) | 105 | // --                                        |
-| <span style="color: #5eb34d">#5eb34d</span> | ![#5eb34d](https://placehold.co/15x15/5eb34d/5eb34d.png) | 110 | // --                                        |
+| <span style="color: #5eb34d">#5eb34d</span> | ![#5eb34d](https://placehold.co/15x15/5eb34d/5eb34d.png) | 110 | // Log date                                  |
 | <span style="color: #55b34d">#55b34d</span> | ![#55b34d](https://placehold.co/15x15/55b34d/55b34d.png) | 115 | // --                                        |
 | <span style="color: #4db34d">#4db34d</span> | ![#4db34d](https://placehold.co/15x15/4db34d/4db34d.png) | 120 | // --                                        |
 | <span style="color: #4db355">#4db355</span> | ![#4db355](https://placehold.co/15x15/4db355/4db355.png) | 125 | // function()                                |
