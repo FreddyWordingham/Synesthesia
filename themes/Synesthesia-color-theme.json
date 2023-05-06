@@ -324,6 +324,11 @@
         },
         // Keyword
         {
+            "name": "Keyword - Control",
+            "scope": "keyword.control",
+            "settings": { "foreground": "#b3774d" }
+        },
+        {
             "name": "Keyword - Control - As",
             "scope": "keyword.control.as",
             "settings": { "foreground": "#b34da1" }
@@ -344,16 +349,6 @@
             "settings": { "foreground": "#b35e4d" }
         },
         {
-            "name": "Keyword - Other - Rust",
-            "scope": "keyword.other.rust",
-            "settings": { "foreground": "#b34d80" }
-        },
-        {
-            "name": "Keyword - Other - Fn - Rust",
-            "scope": "keyword.other.fn.rust",
-            "settings": { "foreground": "#b3774d" }
-        },
-        {
             "name": "Keyword - Control - Export",
             "scope": "keyword.control.export",
             "settings": { "foreground": "#b3a24d" }
@@ -362,6 +357,11 @@
             "name": "Keyword - Control - Try catch",
             "scope": "keyword.control.trycatch",
             "settings": { "foreground": "#AA444d" }
+        },
+        {
+            "name": "Keyword - Control - Continue",
+            "scope": "keyword.control.continue",
+            "settings": { "foreground": "#b3774d" }
         },
         {
             "name": "Keyword - Control - Flow",
@@ -374,29 +374,39 @@
             "settings": { "foreground": "#b36f4d" }
         },
         {
+            "name": "Keyword - Control - If",
+            "scope": "keyword.control.if",
+            "settings": { "foreground": "#b36f4d" }
+        },
+        {
+            "name": "Keyword - Control - For",
+            "scope": "keyword.control.for",
+            "settings": { "foreground": "#b3664d" }
+        },
+        {
             "name": "Keyword - Control - Loop",
             "scope": "keyword.control.loop",
             "settings": { "foreground": "#b3664d" }
         },
         {
+            "name": "Keyword - Other - Rust",
+            "scope": "keyword.other.rust",
+            "settings": { "foreground": "#b34d80" }
+        },
+        {
+            "name": "Keyword - Other - Fn - Rust",
+            "scope": "keyword.other.fn.rust",
+            "settings": { "foreground": "#b3774d" }
+        },
+        {
+            "name": "Keyword - Operator",
+            "scope": "keyword.operator",
+            "settings": { "foreground": "#b34d6e" }
+        },
+        {
             "name": "Keyword - Operator - Comparison",
             "scope": "keyword.operator.comparison",
             "settings": { "foreground": "#b34d55" }
-        },
-        {
-            "name": "Keyword - Operator - Key value",
-            "scope": "keyword.operator.key-value",
-            "settings": { "foreground": "#FFFFFF" }
-        },
-        {
-            "name": "Punctuation - Separator - Dictionary",
-            "scope": "punctuation.separator.dictionary",
-            "settings": { "foreground": "#FFFFFF" }
-        },
-        {
-            "name": "Keyword - Operator - Namespace",
-            "scope": "keyword.operator.namespace",
-            "settings": { "foreground": "#FFFFFF" }
         },
         {
             "name": "Keyword - Operator - Borrow",
@@ -443,6 +453,21 @@
             "scope": "keyword.operator.assignment",
             "settings": { "foreground": "#b34d77" }
         },
+        {
+            "name": "Keyword - Operator - Key value",
+            "scope": "keyword.operator.key-value",
+            "settings": { "foreground": "#FFFFFF" }
+        },
+        {
+            "name": "Keyword - Operator - Namespace",
+            "scope": "keyword.operator.namespace",
+            "settings": { "foreground": "#FFFFFF" }
+        },
+        {
+            "name": "Punctuation - Separator - Dictionary",
+            "scope": "punctuation.separator.dictionary",
+            "settings": { "foreground": "#FFFFFF" }
+        },
         // Meta
         {
             "name": "Meta",
@@ -480,14 +505,39 @@
             "settings": { "foreground": "#666" }
         },
         {
+            "name": "Meta - Attribute",
+            "scope": "meta.attribute",
+            "settings": { "foreground": "#aa4db3" }
+        },
+        {
             "name": "Meta - Function call",
             "scope": "meta.function-call",
             "settings": { "foreground": "#4db355" }
         },
         {
-            "name": "Meta - Function parameters",
+            "name": "Meta - Function - call",
+            "scope": "meta.function.call",
+            "settings": { "foreground": "#4DAAB3" }
+        },
+        {
+            "name": "Meta - Function - Parameters",
             "scope": "meta.function.parameters",
             "settings": { "foreground": "#4d4db3" }
+        },
+        {
+            "name": "Meta - Block",
+            "scope": "meta.block",
+            "settings": { "foreground": "#4d99b3" }
+        },
+        {
+            "name": "Meta - Bracket - Square",
+            "scope": "meta.bracket.square.access",
+            "settings": { "foreground": "#4d99b3" }
+        },
+        {
+            "name": "Meta - Parens",
+            "scope": "meta.parens",
+            "settings": { "foreground": "#4d99b3" }
         },
         {
             "name": "Meta - Item access",
@@ -519,6 +569,16 @@
             "name": "Variable - Object - Property",
             "scope": "variable.object.property",
             "settings": { "foreground": "#4d90b3" }
+        },
+        {
+            "name": "Variable - Language - Self",
+            "scope": "variable.language.self",
+            "settings": { "foreground": "#4db399" }
+        },
+        {
+            "name": "Variable - Language - This",
+            "scope": "variable.language.this",
+            "settings": { "foreground": "#4db391" }
         },
         {
             "name": "Variable - Other - Object",

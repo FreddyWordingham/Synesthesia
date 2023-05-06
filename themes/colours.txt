@@ -13,28 +13,28 @@
 #b2b34d // "string"
 #aab34d // String delimiter
 #a1b34d // JSX children
-#99b34d
+#99b34d // --
 #90b34d // String unquoted argument
-#88b34d
-#80b34d
-#77b34d
-#6eb34d
-#66b34d
-#5eb34d
-#55b34d
-#4db34d
+#88b34d // --
+#80b34d // --
+#77b34d // --
+#6eb34d // --
+#66b34d // --
+#5eb34d // --
+#55b34d // --
+#4db34d // --
 #4db355 // function()
-#4db35e
-#4db366
-#4db36f
+#4db35e // --
+#4db366 // --
+#4db36f // --
 #4db377 // Constant other option
-#4db380
-#4db388
-#4db391
-#4db399
-#4db3a2
+#4db380 // --
+#4db388 // --
+#4db391 // This
+#4db399 // Self
+#4db3a2 // --
 #4db3aa // Mutable variable
-#4db2b3
+#4db2b3 // --
 #4daab3 // Variable name
 #4da1b3 // Attribute vendored
 #4d99b3 // Variable parameter
@@ -45,9 +45,9 @@
 #4d6eb3 // Variable other property
 #4d66b3 // Meta - Object literal
 #4d5eb3 // Type
-#4d55b3
-#4d4db3
-#4d6eb3
+#4d55b3 // --
+#4d4db3 // --
+#4d6eb3 // --
 #5d4db3 // Constant variable
 #664db3 // Tag punctuation
 #6f4db3 // Storage type class
@@ -55,11 +55,11 @@
 #7f4db3 // Storage type interface
 #884db3 // Storage type
 #914db3 // Storage modifier
-#994db3
+#994db3 // --
 #a14db3 // Namespace
-#aa4db3
-#b34db2
-#b34daa
+#aa4db3 // Meta attribute
+#b34db2 // --
+#b34daa // --
 #b34da1 // Operator convert
 #b34d99 // Keyframe offset
 #b34d90 // Operator new
