@@ -14,8 +14,8 @@ Different hues are always a multiple of 5 degrees apart.
 
 ## Table
 
-| Hex                                         | Colour                                                   | Hue | Token                                     |
-| ------------------------------------------- | -------------------------------------------------------- | --- | ----------------------------------------- |
+| Hex                                         |                          Colour                          | Hue | Token                                     |
+| ------------------------------------------- | :------------------------------------------------------: | --- | ----------------------------------------- |
 | <span style="color: #b34d4d">#b34d4d</span> | ![#b34d4d](https://placehold.co/15x15/b34d4d/b34d4d.png) | 0   | Punctuation definition                    |
 | <span style="color: #b3554d">#b3554d</span> | ![#b3554d](https://placehold.co/15x15/b3554d/b3554d.png) | 5   | Import keywords                           |
 | <span style="color: #b35e4d">#b35e4d</span> | ![#b35e4d](https://placehold.co/15x15/b35e4d/b35e4d.png) | 10  | Keyword control at-rule                   |
