@@ -161,6 +161,23 @@
             "scope": "punctuation.definition.comment",
             "settings": { "foreground": "#666" }
         },
+        // Markup
+        {
+            "name": "Markup - Inline - Raw - String",
+            "scope": "markup.inline.raw.string",
+            "settings": { "foreground": "#b2b34d" }
+        },
+        {
+            "name": "Markup - Underline - Link",
+            "scope": "markup.underline.link",
+            "settings": { "foreground": "#4d77b3" }
+        },
+        // Fenced code
+        {
+            "name": "Fenced code - Block - Launguage",
+            "scope": "fenced_code.block.language",
+            "settings": { "foreground": "#b36f4d" }
+        },
         // Constant
         {
             "name": "Constant - Numeric - Json",
@@ -193,6 +210,11 @@
             "settings": { "foreground": "#5d4db3" }
         },
         {
+            "name": "Constant - Other - Option",
+            "scope": "constant.other.option",
+            "settings": { "foreground": "#4db377" }
+        },
+        {
             "name": "Constant - Language",
             "scope": "constant.language",
             "settings": { "foreground": "#b3994d" }
@@ -213,6 +235,16 @@
             "scope": "string.template",
             "settings": { "foreground": "#b3914d" }
         },
+        {
+            "name": "String - Unquoted - Argument - Shell",
+            "scope": "string.unquoted.argument.shell",
+            "settings": { "foreground": "#90b34d" }
+        },
+        {
+            "name": "String - Other - Link",
+            "scope": "string.other.link",
+            "settings": { "foreground": "#b34d77" }
+        },
         // Entity
         {
             "name": "Entity - Name",
@@ -223,6 +255,11 @@
             "name": "Entity - Name - Decorator",
             "scope": "entity.name.decorator",
             "settings": { "foreground": "#666" }
+        },
+        {
+            "name": "Entity - Name - Section",
+            "scope": "entity.name.section",
+            "settings": { "foreground": "#b3aa4d" }
         },
         {
             "name": "Entity - Name - Function",
@@ -413,6 +450,11 @@
             "settings": { "foreground": "#666" }
         },
         {
+            "name": "Meta - Paragraph",
+            "scope": "meta.paragraph",
+            "settings": { "foreground": "#4db391" }
+        },
+        {
             "name": "Meta - Import",
             "scope": "meta.import",
             "settings": { "foreground": "#b3554d" }
@@ -441,6 +483,11 @@
             "name": "Meta - Function call",
             "scope": "meta.function-call",
             "settings": { "foreground": "#4db355" }
+        },
+        {
+            "name": "Meta - Function parameters",
+            "scope": "meta.function.parameters",
+            "settings": { "foreground": "#4d4db3" }
         },
         {
             "name": "Meta - Item access",
@@ -549,11 +596,6 @@
             "scope": "support.type.vendored.property-name",
             "settings": { "foreground": "#4da1b3" }
         },
-        // {
-        //     "name": "Support - Variable - Property",
-        //     "scope": "support.variable.property",
-        //     "settings": { "foreground": "#666" }
-        // },
         // Storage
         {
             "name": "Storage - Modifier",
