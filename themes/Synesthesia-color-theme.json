@@ -521,6 +521,16 @@
             "settings": { "foreground": "#4DAAB3" }
         },
         {
+            "name": "Meta - Property list",
+            "scope": "meta.property-list",
+            "settings": { "foreground": "#4daab3" }
+        },
+        {
+            "name": "Meta - Function - Calculation",
+            "scope": "meta.function.calc",
+            "settings": { "foreground": "#4daab3" }
+        },
+        {
             "name": "Meta - Function - Parameters",
             "scope": "meta.function.parameters",
             "settings": { "foreground": "#4d4db3" }
@@ -556,6 +566,11 @@
             "settings": { "foreground": "#b2b34d" }
         },
         // Variable
+        {
+            "name": "Variable - Argument",
+            "scope": "variable.argument",
+            "settings": { "foreground": "#4d99b3" }
+        },
         {
             "name": "Variable - Parameter",
             "scope": "variable.parameter",
