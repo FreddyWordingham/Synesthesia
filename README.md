@@ -1,14 +1,14 @@
 # Synesthesia Colour Theme
 
 <p align="center">
-    <img src="./resources/images/icon.svg" width="400" height="200" />
+    <img src="./resources/images/icon.svg" width="600" height="200" />
 </p>
 
 Dark theme with meaningful colours.
 
 ## Colours
 
-Colours should be meaningful!
+The colours should be meaningful!
 In this theme, all colours share a common saturation and lightness, and similar token kinds will share similar hue values.
 Different hues are always a multiple of 5 degrees apart.
 
