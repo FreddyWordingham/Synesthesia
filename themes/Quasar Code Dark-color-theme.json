@@ -146,7 +146,6 @@
             "scope": "comment",
             "settings": { "foreground": "#666", "fontStyle": "italic" }
         },
-        // String
         {
             "name": "Comments - Python docstring",
             "scope": "string.quoted.docstring.multi.python",
@@ -163,6 +162,11 @@
             "settings": { "foreground": "#666" }
         },
         // Constant
+        {
+            "name": "Constant - Numeric - Json",
+            "scope": "constant.numeric.json",
+            "settings": { "foreground": "#b3804d" }
+        },
         {
             "name": "Constant - Numeric - Decimal",
             "scope": "constant.numeric.decimal",
@@ -266,6 +270,11 @@
             "settings": { "foreground": "#4d90b3" }
         },
         {
+            "name": "Keyword - Key - TOML",
+            "scope": "keyword.key.toml",
+            "settings": { "foreground": "#4d90b3" }
+        },
+        {
             "name": "Entity - Other - Attribute Name - Class",
             "scope": "entity.other.attribute-name.class",
             "settings": { "foreground": "#6f4db3" }
@@ -274,7 +283,7 @@
         {
             "name": "Invalid",
             "scope": "invalid",
-            "settings": { "foreground": "#666" }
+            "settings": { "foreground": "#FF00FF" }
         },
         // Keyword
         {
@@ -343,6 +352,11 @@
             "settings": { "foreground": "#FFFFFF" }
         },
         {
+            "name": "Punctuation - Separator - Dictionary",
+            "scope": "punctuation.separator.dictionary",
+            "settings": { "foreground": "#FFFFFF" }
+        },
+        {
             "name": "Keyword - Operator - Namespace",
             "scope": "keyword.operator.namespace",
             "settings": { "foreground": "#FFFFFF" }
@@ -361,7 +375,7 @@
             "name": "Keyword - Operator - Question",
             "scope": "keyword.operator.question",
             "settings": { "foreground": "#b34d80" }
-        }
+        },
         {
             "name": "Keyword - Operator - New",
             "scope": "keyword.operator.new",
@@ -467,6 +481,11 @@
         {
             "name": "Variable - Other - Object - Property",
             "scope": "variable.other.object.property",
+            "settings": { "foreground": "#4d6eb3" }
+        },
+        {
+            "name": "Variable - Other - Assignment",
+            "scope": "variable.other.assignment",
             "settings": { "foreground": "#4d6eb3" }
         },
         {
@@ -631,6 +650,6 @@
             "name": "Punctuation - Brackets - Angle",
             "scope": "punctuation.brackets.angle",
             "settings": { "foreground": "#664DB3" }
-        },
+        }
     ]
 }
