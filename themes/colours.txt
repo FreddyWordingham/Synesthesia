@@ -1,4 +1,4 @@
-#b34d4d // Punctuation defintion
+#b34d4d // Punctuation definition
 #b3554d // Import keywords
 #b35e4d // Keyword control at-rule
 #b3664d // Keyword control loop
@@ -14,7 +14,7 @@
 #aab34d // String delimiter
 #a1b34d // JSX children
 #99b34d
-#90b34d
+#90b34d // String unquoted argument
 #88b34d
 #80b34d
 #77b34d
@@ -27,7 +27,7 @@
 #4db35e
 #4db366
 #4db36f
-#4db377
+#4db377 // Constant other option
 #4db380
 #4db388
 #4db391

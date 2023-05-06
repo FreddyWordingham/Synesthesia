@@ -1,8 +1,8 @@
 {
-    "name": "quasar-code-dark",
-    "displayName": "Quasar Code Dark",
-    "description": "Dark and colourful theme!",
-    "version": "0.0.1",
+    "name": "Synesthesia",
+    "displayName": "Synesthesia",
+    "description": "Dark theme with meaningful colours!",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.78.0"
     },
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Quasar Code Dark",
+                "label": "Synesthesia",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Quasar Code Dark-color-theme.json"
+                "path": "./themes/Synesthesia-color-theme.json"
             }
         ]
     }
