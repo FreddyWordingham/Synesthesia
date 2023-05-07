@@ -17,8 +17,8 @@
 #90b34d // String unquoted argument
 #88b34d // --
 #80b34d // --
-#77b34d // Namespace
-#6eb34d // 
+#77b34d // --
+#6eb34d // --
 #66b34d // --
 #5eb34d // Log date
 #55b34d // --
@@ -55,7 +55,7 @@
 #7f4db3 // Storage type interface
 #884db3 // Storage type
 #914db3 // Storage modifier
-#994db3 // --
+#994db3 // Namespace
 #a14db3 // --
 #aa4db3 // --
 #b34db2 // --

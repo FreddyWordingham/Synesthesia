@@ -260,7 +260,7 @@
         {
             "name": "Entity - Name - Decorator",
             "scope": "entity.name.decorator",
-            "settings": { "foreground": "#666" }
+            "settings": { "foreground": "#4d4db3" }
         },
         {
             "name": "Entity - Name - Section",
@@ -305,7 +305,7 @@
         {
             "name": "Entity - Name - Namespace",
             "scope": "entity.name.namespace",
-            "settings": { "foreground": "#77b34d" }
+            "settings": { "foreground": "#994db3" }
         },
         {
             "name": "Entity - Other - Attribute Name",
