@@ -17,8 +17,8 @@
 #90b34d // String unquoted argument
 #88b34d // --
 #80b34d // --
-#77b34d // --
-#6eb34d // --
+#77b34d // Namespace
+#6eb34d // 
 #66b34d // --
 #5eb34d // Log date
 #55b34d // --
@@ -46,8 +46,8 @@
 #4d66b3 // Meta - Object literal
 #4d5eb3 // Type
 #4d55b3 // --
-#4d4db3 // --
-#4d6eb3 // --
+#4d4db3 // Meta attribute
+#554db3 // --
 #5d4db3 // Constant variable
 #664db3 // Tag punctuation
 #6f4db3 // Storage type class
@@ -56,8 +56,8 @@
 #884db3 // Storage type
 #914db3 // Storage modifier
 #994db3 // --
-#a14db3 // Namespace
-#aa4db3 // Meta attribute
+#a14db3 // --
+#aa4db3 // --
 #b34db2 // --
 #b34daa // --
 #b34da1 // Operator convert

@@ -305,7 +305,7 @@
         {
             "name": "Entity - Name - Namespace",
             "scope": "entity.name.namespace",
-            "settings": { "foreground": "#994db3" }
+            "settings": { "foreground": "#77b34d" }
         },
         {
             "name": "Entity - Other - Attribute Name",
@@ -508,7 +508,7 @@
         {
             "name": "Meta - Attribute",
             "scope": "meta.attribute",
-            "settings": { "foreground": "#aa4db3" }
+            "settings": { "foreground": "#4d4db3" }
         },
         {
             "name": "Meta - Function call",

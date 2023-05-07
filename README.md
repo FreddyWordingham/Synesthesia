@@ -61,7 +61,7 @@ Different hues are always a multiple of 5 degrees apart.
 | <span style="color: #90b34d">#90b34d</span> | ![#90b34d](https://placehold.co/15x15/90b34d/90b34d.png) | 80  | // String unquoted argument                  |
 | <span style="color: #88b34d">#88b34d</span> | ![#88b34d](https://placehold.co/15x15/88b34d/88b34d.png) | 85  | // --                                        |
 | <span style="color: #80b34d">#80b34d</span> | ![#80b34d](https://placehold.co/15x15/80b34d/80b34d.png) | 90  | // --                                        |
-| <span style="color: #77b34d">#77b34d</span> | ![#77b34d](https://placehold.co/15x15/77b34d/77b34d.png) | 95  | // --                                        |
+| <span style="color: #77b34d">#77b34d</span> | ![#77b34d](https://placehold.co/15x15/77b34d/77b34d.png) | 95  | // Namespace                                 |
 | <span style="color: #6eb34d">#6eb34d</span> | ![#6eb34d](https://placehold.co/15x15/6eb34d/6eb34d.png) | 100 | // --                                        |
 | <span style="color: #66b34d">#66b34d</span> | ![#66b34d](https://placehold.co/15x15/66b34d/66b34d.png) | 105 | // --                                        |
 | <span style="color: #5eb34d">#5eb34d</span> | ![#5eb34d](https://placehold.co/15x15/5eb34d/5eb34d.png) | 110 | // Log date                                  |
@@ -90,8 +90,8 @@ Different hues are always a multiple of 5 degrees apart.
 | <span style="color: #4d66b3">#4d66b3</span> | ![#4d66b3](https://placehold.co/15x15/4d66b3/4d66b3.png) | 225 | // Meta - Object literal                     |
 | <span style="color: #4d5eb3">#4d5eb3</span> | ![#4d5eb3](https://placehold.co/15x15/4d5eb3/4d5eb3.png) | 230 | // Type                                      |
 | <span style="color: #4d55b3">#4d55b3</span> | ![#4d55b3](https://placehold.co/15x15/4d55b3/4d55b3.png) | 235 | // --                                        |
-| <span style="color: #4d4db3">#4d4db3</span> | ![#4d4db3](https://placehold.co/15x15/4d4db3/4d4db3.png) | 240 | // --                                        |
-| <span style="color: #4d6eb3">#4d6eb3</span> | ![#4d6eb3](https://placehold.co/15x15/4d6eb3/4d6eb3.png) | 245 | // --                                        |
+| <span style="color: #4d4db3">#4d4db3</span> | ![#4d4db3](https://placehold.co/15x15/4d4db3/4d4db3.png) | 240 | // Meta attribute                            |
+| <span style="color: #554db3">#554db3</span> | ![#554db3](https://placehold.co/15x15/4d6eb3/4d6eb3.png) | 245 | // --                                        |
 | <span style="color: #5d4db3">#5d4db3</span> | ![#5d4db3](https://placehold.co/15x15/5d4db3/5d4db3.png) | 250 | // Constant variable                         |
 | <span style="color: #664db3">#664db3</span> | ![#664db3](https://placehold.co/15x15/664db3/664db3.png) | 255 | // Tag punctuation                           |
 | <span style="color: #6f4db3">#6f4db3</span> | ![#6f4db3](https://placehold.co/15x15/6f4db3/6f4db3.png) | 260 | // Storage type class                        |
@@ -100,8 +100,8 @@ Different hues are always a multiple of 5 degrees apart.
 | <span style="color: #884db3">#884db3</span> | ![#884db3](https://placehold.co/15x15/884db3/884db3.png) | 275 | // Storage type                              |
 | <span style="color: #914db3">#914db3</span> | ![#914db3](https://placehold.co/15x15/914db3/914db3.png) | 280 | // Storage modifier                          |
 | <span style="color: #994db3">#994db3</span> | ![#994db3](https://placehold.co/15x15/994db3/994db3.png) | 285 | // --                                        |
-| <span style="color: #a14db3">#a14db3</span> | ![#a14db3](https://placehold.co/15x15/a14db3/a14db3.png) | 290 | // Namespace                                 |
-| <span style="color: #aa4db3">#aa4db3</span> | ![#aa4db3](https://placehold.co/15x15/aa4db3/aa4db3.png) | 295 | // Meta attribute                            |
+| <span style="color: #a14db3">#a14db3</span> | ![#a14db3](https://placehold.co/15x15/a14db3/a14db3.png) | 290 | // --                                        |
+| <span style="color: #aa4db3">#aa4db3</span> | ![#aa4db3](https://placehold.co/15x15/aa4db3/aa4db3.png) | 295 | // --                                        |
 | <span style="color: #b34db2">#b34db2</span> | ![#b34db2](https://placehold.co/15x15/b34db2/b34db2.png) | 300 | // --                                        |
 | <span style="color: #b34daa">#b34daa</span> | ![#b34daa](https://placehold.co/15x15/b34daa/b34daa.png) | 305 | // --                                        |
 | <span style="color: #b34da1">#b34da1</span> | ![#b34da1](https://placehold.co/15x15/b34da1/b34da1.png) | 310 | // Operator convert                          |
