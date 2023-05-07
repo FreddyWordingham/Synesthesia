@@ -481,6 +481,11 @@
             "settings": { "foreground": "#4db391" }
         },
         {
+            "name": "Meta - Interpolation",
+            "scope": "meta.interpolation",
+            "settings": { "foreground": "#b3914d" }
+        },
+        {
             "name": "Meta - Import",
             "scope": "meta.import",
             "settings": { "foreground": "#b3554d" }

@@ -14,4 +14,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [V0.3.0]
 
+-   Added colours for more symbols
+
+## [V0.4.0]
+
 -   Moved colours away from magenta to make errors more distinguishable
+
+## [V0.5.0]
+
+-   Added colours for more symbols
