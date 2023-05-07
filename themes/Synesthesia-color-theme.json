@@ -481,6 +481,11 @@
             "settings": { "foreground": "#4db391" }
         },
         {
+            "name": "Meta - Formatted string",
+            "scope": "meta.fstring",
+            "settings": { "foreground": "#b3914d" }
+        },
+        {
             "name": "Meta - Interpolation",
             "scope": "meta.interpolation",
             "settings": { "foreground": "#b3914d" }
