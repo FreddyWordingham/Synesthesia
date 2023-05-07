@@ -702,6 +702,11 @@
             "scope": "support.type.vendored.property-name",
             "settings": { "foreground": "#4da1b3" }
         },
+        {
+            "name": "Support - Variable - Property name",
+            "scope": "support.variable.property",
+            "settings": { "foreground": "#4da1b3" }
+        },
         // Storage
         {
             "name": "Storage - Modifier",
