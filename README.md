@@ -1,7 +1,7 @@
 # Synesthesia Colour Theme
 
 <p align="center">
-    <img src="./resources/images/icon.png" width="600" height="200" />
+    <img src="./resources/images/icon.png" width="200" height="200" />
 </p>
 
 Dark and vibrant TextMate theme with meaningful colours.
