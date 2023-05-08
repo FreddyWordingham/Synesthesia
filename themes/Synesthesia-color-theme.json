@@ -755,6 +755,11 @@
             "settings": { "foreground": "#b34d88" }
         },
         {
+            "name": "Punctuation - Comma",
+            "scope": "punctuation.comma",
+            "settings": { "foreground": "#FFFFFF" }
+        },
+        {
             "name": "Punctuation - Separator",
             "scope": "punctuation.separator",
             "settings": { "foreground": "#FFFFFF" }
