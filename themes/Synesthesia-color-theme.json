@@ -196,6 +196,11 @@
             "settings": { "foreground": "#b3804d" }
         },
         {
+            "name": "Punctuation - Separator - Dot - Decimal",
+            "scope": "punctuation.separator.dot.decimal",
+            "settings": { "foreground": "#b3804d" }
+        },
+        {
             "name": "Constant - Numeric - CSS",
             "scope": "constant.numeric.css",
             "settings": { "foreground": "#b3804d" }
