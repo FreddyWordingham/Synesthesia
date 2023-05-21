@@ -23,3 +23,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [V0.5.0]
 
 -   Added colours for more symbols
+
+## [V0.6.0]
+
+-   Decimal places in floating point numbers are now the colour as numbers
